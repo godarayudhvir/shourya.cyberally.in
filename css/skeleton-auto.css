@@ -95,6 +95,8 @@ body {
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
+    background: url("/images/bg.webp") no-repeat center center fixed;
+    background-size: cover;  
 }
 
 /* Typography

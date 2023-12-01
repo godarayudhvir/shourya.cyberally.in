@@ -15,7 +15,7 @@
 * www.getskeleton.com
 * Free to use under the MIT license.
 * http://www.opensource.org/licenses/mit-license.php
-* 12/29/2014
+* 12/29/20142457f5
 */
 
 /* Table of contents
@@ -80,7 +80,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #2457F5;
+  background-color: #515d80;
 }
 .button.button-default:hover,
 .button.button-default:focus {
